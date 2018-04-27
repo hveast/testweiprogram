@@ -1,0 +1,30 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/login/login"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "凯子君测试小程序",
+    "navigationBarTextStyle": "black",
+    "navigationStyle": "default"
+  },
+  "tabBar": {
+    "color": "#ffffff",
+    "selectedColor": "#6699CC",
+    "backgroundColor": "#000000",
+    "position": "top",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "第一页"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "第二页"
+      }
+    ]
+  }
+}
