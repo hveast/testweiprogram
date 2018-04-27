@@ -1,4 +1,4 @@
-//index.js2
+//index.js3
 //获取应用实例
 const app = getApp()
 
